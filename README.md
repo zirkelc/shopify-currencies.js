@@ -1,3 +1,6 @@
+[![NPM Version](https://img.shields.io/npm/v/shopify-currencies.js)](https://www.npmjs.com/package/shopify-currencies.js)
+[![NPM Downloads](https://img.shields.io/npm/dy/shopify-currencies.js)](https://www.npmjs.com/package/shopify-currencies.js)
+
 # Shopify Currencies.js
 
 This package provides a simple wrapper to access Shopify's [currency conversion rates](https://cdn.shopify.com/s/javascripts/currencies.js) from Node.js.
